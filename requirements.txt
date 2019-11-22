@@ -1,0 +1,5 @@
+pickle==3.8.0
+aiomysql==0.0.20
+aiohttp==3.6.0
+sanic==19.6.2
+argparse==3.2
